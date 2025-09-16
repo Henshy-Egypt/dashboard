@@ -95822,7 +95822,7 @@ break}m.H(new A.aD5(m))
 l=B.c.ce(m.e.a.a)
 k=B.c.ce(m.f.a.a)
 p=4
-g=A.d7("https://myvmwawjbuitapdwpaly.supabase.co/functions/v1/send_notification_to_appUsers",0,null)
+g=A.d7("https://myvmwawjbuitapdwpaly.supabase.co/functions/v1/send_notification_to_allusers",0,null)
 f=t.N
 e=A.a1(["Content-Type","application/json"],f,f)
 s=7

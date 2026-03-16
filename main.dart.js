@@ -110459,7 +110459,7 @@ s=q}while(true)switch(s){case 0:q=3
 l=$.b4().b
 l===$&&A.b()
 s=6
-return A.k(l.V("recipes_spices").c1().ap("recipe_id",o.a.x).e4("spicy_weight",!1),$async$Ea)
+return A.k(l.V("recipes_spices").c1().ap("recipe_id",o.a.x).ap("show_spice",!0).e4("spicy_weight",!1),$async$Ea)
 case 6:n=b
 o.p(new A.aPJ(o,n))
 q=1
